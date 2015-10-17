@@ -1,0 +1,45 @@
+{
+  "name": "cap1instagram",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cap1instagram/cap1instagram",
+  "authors": [
+    "Jiang wu <wujiang1900@yahoo.com>"
+  ],
+  "description": "Go, CapitalOne!",
+  "keywords": [
+    "mean-seed",
+    "mean",
+    "mean-stack",
+    "generator-mean-seed",
+    "javascript",
+    "angular",
+    "node",
+    "app",
+    "CapitalOne",
+    "Instagram"
+  ],
+  "dependencies": {
+    "angular": "1.4.7",
+    "angular-animate": "1.4.7",
+    "angular-sanitize": "1.4.7",
+    "angular-touch": "1.4.7",
+    "angular-route": "1.4.7",
+    "angular-cookies": "1.4.7",
+	"angular-mocks": "1.4.7",
+    "lesshat": "latest",
+    "font-awesome": "latest",
+    "less-flexbox": "latest",
+    "momentjs": "latest",
+    "angular-string": "latest",
+    "angular-array": "latest",
+    "angular-forminput": "latest",
+    "angular-socket-io": "latest"
+  },
+  "license": "MIT",
+  "resolutions": {
+    "angular": "1.4.7",
+    "angular-animate": "1.4.7",
+    "angular-sanitize": "1.4.7",
+    "angular-touch": "1.4.7"
+  }
+}

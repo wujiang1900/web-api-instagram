@@ -1,0 +1,11 @@
+{
+	"name": "cap1instagram",
+    "description": "Go, CapitalOne!",
+    "version": "0.0.0",
+    "url": "https://github.com/cap1instagram/cap1instagram",
+    "options": {
+        "paths": "./app/src/",
+        "outdir": "yuidocs/frontend",
+        "exclude": "bower_components,build,deploys,test"
+    }
+}
